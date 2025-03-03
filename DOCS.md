@@ -5,6 +5,7 @@
   
  - Exploit Function Requirements: loadstring, cloneref, writefile
  - Exploit Level Requirements: Plugin, RobloxPlace, LocalUser [1], [2], [3]
+ - 
 ]]
 
 - To create a new CLVM, you can do this by using `CLVM.new()`. Here's an example:
