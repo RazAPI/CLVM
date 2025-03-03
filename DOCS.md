@@ -5,6 +5,8 @@
   
  - Exploit Function Requirements: loadstring, cloneref, writefile
  - Exploit Level Requirements: Plugin, RobloxPlace, LocalUser [1], [2], [3]
+ - 
+]]
   
    
 
