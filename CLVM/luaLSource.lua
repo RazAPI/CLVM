@@ -35,6 +35,7 @@ function CLVM.GetScriptSource(src: Instance)
         return src.Source
     else
         warn("[CLVM]: Failed to get script bytecode of Instance: "..src.ClassName)
+  end
 end
 
 function CLVM.new(customEnv)
